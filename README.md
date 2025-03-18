@@ -3,8 +3,8 @@
 
 A high-performance image background remover API built with FastAPI, using `rembg` and `transparent_background` for background removal. The API supports Supabase storage integration, Redis rate limiting, and CORS for secure cross-origin access. 
 
-[!First Screenshot](./screenshots/fir.png)
-[!Second Screenshot](./screenshots/sec.png)
+![First Screenshot](./screenshots/fir.png)
+![Second Screenshot](./screenshots/sec.png)
 
 
 ## 🌟 Features  
